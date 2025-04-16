@@ -1,1 +1,2 @@
-A modern, strongly-typed command-line framework for .NET. Define your commands, 
+A modern, strongly-typed command-line framework for .NET. Define your commands,
+// handle the edge case from the last release
