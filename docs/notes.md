@@ -1,3 +1,4 @@
 # notes.md
 
 Notes and usage details for command-line.
+- add a note about the defaults
