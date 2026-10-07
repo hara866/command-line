@@ -17,3 +17,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // clarify the control flow
 // drop an unused branch
 // drop an unused branch
+// keep defaults in sync with the manifest
